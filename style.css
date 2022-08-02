@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	background-color: white;
+	box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+}
+.display{
+
+}
+.display input{
+	width: 400px;
+	padding: 14px;
+}
+.task{
+	padding: 12px;
+	margin: 16px 0px;
+	background-color: #ff8282;
+	color: white;
+}
+i{
+	cursor: pointer;
+	float: right;
+}
+.com-task .task{
+	background-color: green !important;
+}
